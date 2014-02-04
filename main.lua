@@ -11,7 +11,7 @@ display.setStatusBar( display.HiddenStatusBar )
 --display background
 --"display"is an object
 --"newImage" is its method
-local background = display.newImage("test_background.png")
+--local background = display.newImage("test_background.png")
 
 --create an array of text using a table called myText
 local myText={
